@@ -1,0 +1,8 @@
+{ "name": "yt2mp3-api", "version": "1.0.0", 
+  "main": "savetube.js", "type": "module", 
+  "dependencies": {
+    "axios": "^1.6.0", "express": "^4.18.2"
+  },
+  "scripts": { "start": "node savetube.js"
+  }
+}
